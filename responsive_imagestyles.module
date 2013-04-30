@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Responsive imagestyles feature.
+ */
+
+include_once 'responsive_imagestyles.features.inc';
